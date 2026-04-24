@@ -1,0 +1,11 @@
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\bin\Debug\net8.0\SedPractice.Domain.deps.json
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\bin\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\bin\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\SedPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\SedPractice.Domain.AssemblyInfoInputs.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\SedPractice.Domain.AssemblyInfo.cs
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\SedPractice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\refint\SedPractice.Domain.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.Domain\obj\Debug\net8.0\ref\SedPractice.Domain.dll
