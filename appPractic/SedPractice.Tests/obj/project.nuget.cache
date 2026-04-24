@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CJX/eEXg5Ek=",
+  "dgSpecHash": "L6DUYZAR9ZI=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.Tests\\SedPractice.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.Tests\\SedPractice.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kira\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
     "C:\\Users\\Kira\\.nuget\\packages\\microsoft.data.sqlite\\8.0.4\\microsoft.data.sqlite.8.0.4.nupkg.sha512",

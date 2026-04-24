@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.Domain\\SedPractice.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.Domain\\SedPractice.Domain.csproj",
       "projectName": "SedPractice.Domain",
-      "projectPath": "C:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.Domain\\SedPractice.Domain.csproj",
+      "projectPath": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.Domain\\SedPractice.Domain.csproj",
       "packagesPath": "C:\\Users\\Kira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

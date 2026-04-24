@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SedPractice.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b82fef018fd8f4fd7f880f649890a12e2ae83c55")]
 [assembly: System.Reflection.AssemblyProductAttribute("SedPractice.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SedPractice.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

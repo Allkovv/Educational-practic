@@ -1238,11 +1238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.Tests\\SedPractice.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.Tests\\SedPractice.Tests.csproj",
       "projectName": "SedPractice.Tests",
-      "projectPath": "C:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.Tests\\SedPractice.Tests.csproj",
+      "projectPath": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.Tests\\SedPractice.Tests.csproj",
       "packagesPath": "C:\\Users\\Kira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1264,8 +1264,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.BLL\\SedPractice.BLL.csproj": {
-              "projectPath": "c:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.BLL\\SedPractice.BLL.csproj"
+            "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.BLL\\SedPractice.BLL.csproj": {
+              "projectPath": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.BLL\\SedPractice.BLL.csproj"
             }
           }
         }

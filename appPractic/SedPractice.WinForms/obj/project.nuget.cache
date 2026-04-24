@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1H+u2N7QV8=",
+  "dgSpecHash": "F4p1Xnxh1h8=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Kira\\Downloads\\appPractic\\SedPractice.WinForms\\SedPractice.WinForms.csproj",
+  "projectFilePath": "C:\\Users\\Kira\\Desktop\\рактика апрель\\Educational-practic\\appPractic\\SedPractice.WinForms\\SedPractice.WinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kira\\.nuget\\packages\\microsoft.data.sqlite\\8.0.4\\microsoft.data.sqlite.8.0.4.nupkg.sha512",
     "C:\\Users\\Kira\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
